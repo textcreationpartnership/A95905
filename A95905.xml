@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A salutation of love unto all who have known the call of God and have in measure believed therein so far as to make open confession to his name and truth, and yet sit down short of the heavenly possession, through want of faithfulness thereunto, so come not to witness a being gathered into God's vineyard, to labour therein, which alone obtains the reward, and fits for his heavenly kingdom / by Richard Vickris.</title>
+            <author>Vickris, Richard, d. 1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95905</idno>
+            <idno type="STC">Wing V340</idno>
+            <idno type="STC">ESTC R43808</idno>
+            <idno type="EEBO-CITATION">42475268</idno>
+            <idno type="OCLC">ocm 42475268</idno>
+            <idno type="VID">151427</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95905)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151427)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A salutation of love unto all who have known the call of God and have in measure believed therein so far as to make open confession to his name and truth, and yet sit down short of the heavenly possession, through want of faithfulness thereunto, so come not to witness a being gathered into God's vineyard, to labour therein, which alone obtains the reward, and fits for his heavenly kingdom / by Richard Vickris.</title>
+                  <author>Vickris, Richard, d. 1700.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: faded.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holy Spirit --  Quaker authors --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151427:1" rendition="simple:additions"/>
+            <p>A <hi>Salutation</hi> OF LOVE Unto all who have known the Call of GOD, And have in Meaſure believed therein, ſo far as to make open Confeſſion to his Name and Truth, and yet ſit down ſhort of the Heavenly Poſ<g ref="char:EOLhyphen"/>ſeſſion, through want of Faithfulneſs thereunto; ſo come not to Witneſs a being Gathered into God's Vineyard, to Labour therein, which alone obtains the Reward, and fits for his Heavenly King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>By <hi>Richard Vickris.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Sowle,</hi> next Door to the <hi>Meeting-Houſe</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street,</hi> and at the <hi>Bible</hi> in <hi>Leaden-Hall-Street,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:151427:2"/>
+            <pb n="3" facs="tcp:151427:2"/>
+            <head>A <hi>Salutation</hi> OF LOVE, &amp;c.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>AN unuſual Concern is fallen upon me, in the Motion of Life, and Living Senſe of the great Work of God in the Souls of Men and Women; and what hinders the Progreſs of it; in tender Love and Deſire for the Proſperity
+<pb n="4" facs="tcp:151427:3"/> of that Work in you all, to Viſit you with theſe Lines; more eſpecially you of the Nor<g ref="char:EOLhyphen"/>thern Diviſion of this County of <hi>Somerſet,</hi> who are, or may be Concerned, and who profeſs your ſelves to be of the number of God's People, belongs to, and ſometimes comes to their Meet<g ref="char:EOLhyphen"/>ings, and ſit as they ſit; here<g ref="char:EOLhyphen"/>by ſignifying to you, that my Heart is Sorrowful, and my Spirit Afflicted in the Senſe and Conſideration of the pre<g ref="char:EOLhyphen"/>ſent Unhappy, and future Wo<g ref="char:EOLhyphen"/>ful State (if you Repent not) of ſome of you; who, through the Love and Cares of this World, forget God, and decay in your Love to him, who firſt Loved, Viſited and Called you
+<pb n="5" facs="tcp:151427:3"/> by his Grace, into his Marvel<g ref="char:EOLhyphen"/>lous Light; which Love of the World, and Worldly things, with the Cares of this Life, hath ſo deeply entered into, and ta<g ref="char:EOLhyphen"/>ken the Poſſeſſion of many of your Hearts and Minds, that it hath Choaked the good Seed, and left little or no place for Heavenly things, as is too abun<g ref="char:EOLhyphen"/>dantly Manifeſted by the great Careleſneſs and Neglect that many of the Profeſſors of the Truth, in this our Day and Time, are found in; not only in declining, in a great Meaſure, their Meeting together with the Lord's People, to wait up<g ref="char:EOLhyphen"/>on him, and Worſhip him in Spirit and Truth, eſpecially on Week-days (concerning which
+<pb n="6" facs="tcp:151427:4"/> it hath frequently moved upon the Hearts of ſome of the Lord's Servants, to warn you, to be diligent in) but when you have found leiſure from other Buſi<g ref="char:EOLhyphen"/>neſs, to preſent your Bodies ſometimes at your Firſt-day Meetings. It is to be feared you have not preſented your Souls and Spirits, as a Living Sacri<g ref="char:EOLhyphen"/>fice unto God; ſo your Bodily Preſence hath not profitted you, as to the Worſhip of God, being Dead and Unacceptable unto him; And the Reaſon of this is, becauſe your Souls are in the Hand and Power of the Enemy of all our Peace and Happineſs, who holds you in Captivity, and will not let you go to ſerve the Lord in the
+<pb n="7" facs="tcp:151427:4"/> Land of the Living, ſo long as you give your Strength to him, through the Love of Earthly things; <hi>For where the Treaſure is, there will the Heart be alſo.</hi>
+            </p>
+            <p>Now that which opens upon my Spirit, to Communicate to you in much Love, is, not on<g ref="char:EOLhyphen"/>ly to exhort you to Diligence in Frequenting the Meetings of the Lord's People, but in wait<g ref="char:EOLhyphen"/>ing upon him therein, that you may witneſs a ſtronger than your Souls Enemy to come, and bind him, and caſt him forth, and deſtroy his Goods; and ſo deliver your Souls out of this Woful Captivity and Bondage; and this is a Spiritual Work, and Profitable Labour and Travel, which God hath called you unto,
+<pb n="8" facs="tcp:151427:5"/> that you may come in, and Work in his Vineyard: Therefore ſit no longer Idle, but come to the Help of the Lord, and you ſhall find ſtrength from him to Re<g ref="char:EOLhyphen"/>ſiſt and Subdue the Enemy; for he is both able and willing to do it. The Reaſon why ſome are ſo Careleſs and Ne<g ref="char:EOLhyphen"/>gligent of meeting with the Lord's People, to wait upon, and worſhip him, is, becauſe they Experience ſo little of the true Benefit of that Exerciſe, when they are amongſt them, which is occaſioned for want of coming in a right Mind and pure Intention towards God; and alſo for want of the Preparation of the Heart, through an inward diligent
+<pb n="9" facs="tcp:151427:5"/> waiting upon God whilſt there, who only can do it; Inſo<g ref="char:EOLhyphen"/>much that when ſuch come to Meeting, they fall into dul<g ref="char:EOLhyphen"/>neſs and heavineſs of Spirit, and ſome into down-right Sleeping; others the Enemy prevails over to buſie their Minds with con<g ref="char:EOLhyphen"/>fuſed Muſing and Thought<g ref="char:EOLhyphen"/>fulneſs, ſometimes about their worldly Concerns, and ſome<g ref="char:EOLhyphen"/>times what they can Pump up of other things, with their earthly Minds, which cannot ſerve God aright, or bring forth any Fruit or Sacrifice Ac<g ref="char:EOLhyphen"/>ceptable unto him, or Edifying to themſelves, ſo that their time of Meeting, being for the moſt part thus ſpent in Capti<g ref="char:EOLhyphen"/>vity and Bondage to the Ene<g ref="char:EOLhyphen"/>my,
+<pb n="10" facs="tcp:151427:6"/> their Meetings, inſtead of being Comfortable and Profita<g ref="char:EOLhyphen"/>ble, becomes tedious and bur<g ref="char:EOLhyphen"/>denſom to them, and then in time ſuch grow weary, and comes but now and then to keep up a Name amongſt Men, perhaps when they hear of a ſtranger and Miniſter that is like to be at the Meeting, ſuch may be forward to come, and give their Ears to the Sound of their Words, and entertain their Minds with the Variety of the Heavenly and Undenia<g ref="char:EOLhyphen"/>ble Truths that may be deliver<g ref="char:EOLhyphen"/>ed, and be pleaſed therewith, and Speak well of it, <hi>For it may be to them as a Lovely Song, or as one that Plays well upon an Inſtrument:</hi> Yea, farther per<g ref="char:EOLhyphen"/>haps
+<pb n="11" facs="tcp:151427:6"/> the Power of Truth may ſo far reach them, and touch their Hearts, as to bring them into a good Degree of Senſe and Tenderneſs for the time, and the Scales begin to fall from their Eyes, and they have ſome ſight of their Condition; <hi>But like the Natural Man, that be<g ref="char:EOLhyphen"/>holds his Natural Face in a Glaſs, goeth away, and forgetteth what manner of Man he was:</hi> So it falls out with theſe, for want of giving their Ears to God's Word in their own Hearts, and the Eye of their Minds to the Bleſſed Light of his Spirit and Truth therein, they Hear and See, but as the Natural Man; And though ſuch may heap up great Treaſures of Knowledge
+<pb n="12" facs="tcp:151427:7"/> here, in their Airy Minds, and may think themſelves Rich, and Full, it will not avail them in God's Account, who look to the Heart, and regards Truth in the inward Parts; and all that is ſhort of this, will but turn in the end to their greater Condemnation.</p>
+            <p>Thus whilſt Men are held in Bondage and Captivity to their Soul's Enemy, through Earth<g ref="char:EOLhyphen"/>ly and Senſual-mindedneſs, Diſ<g ref="char:EOLhyphen"/>obedience and Unfaithfulneſs to God, they are void of a right Exerciſe at Meetings, with relation to the true Wor<g ref="char:EOLhyphen"/>ſhip of God; and the longer they live, and continue in this ſtate, the darker and harder they grow; until they become
+<pb n="13" facs="tcp:151427:7"/> unſenſible of their Condition; then ſits down in Drineſs and Barrenneſs, not knowing when Good comes, until at laſt they become wholly dead to God; and this is a Lamentable State and Condition; and of this ſort ſome return with the Dog to the Vomit, into the Common Enormities and Pollutions of the World: But many there are who have not run to this Exceſs, nor thus ſinned out their Days, but are yet living, though in much Weakneſs, and Feebleneſs, ſorely Bruiſed and Oppreſt by the Enemy; for whom there is tender Compaſ<g ref="char:EOLhyphen"/>ſion in our God; and for whoſe Reſtoration, the Lord's Ser<g ref="char:EOLhyphen"/>vants are greatly concerned;
+<pb n="14" facs="tcp:151427:8"/> ſuch are ready to ſay at times, <hi>Who ſo Poor and Miſerable as we? Lord help us; How ſhall we come to the help of the Lord? The Enemy holds us faſt<g ref="char:punc">▪</g> we are glewed to Earthly Things; to will is pre<g ref="char:EOLhyphen"/>ſent with us, but how to perform we know not; Lord we believe, help thou our unbelief:</hi> To ſuch a one I would ſay, Thou believ<g ref="char:EOLhyphen"/>eſt that the Lord is, (for he that cometh to God muſt ſo believe, and that he is a Rewarder of them that diligently ſeek him) <hi>viz.</hi> That he is what he is; <hi>God is Light, in him is no Dark<g ref="char:EOLhyphen"/>neſs at all; God is Gracious, and Merciful, Long-ſuffering, abun<g ref="char:EOLhyphen"/>dant in Goodneſs and Truth; God is all Powerful; and preſent every where,</hi> conſequently, that he is
+<pb n="15" facs="tcp:151427:8"/> preſent in thy Soul; the Seal of this Belief, is that degree of Senſe and Experience thou find<g ref="char:EOLhyphen"/>eſt of his Nature, and Gift, and Spirit in thee, which is a Mea<g ref="char:EOLhyphen"/>ſure and Manifeſtation of him<g ref="char:EOLhyphen"/>ſelf unto thee, in Oppoſition to the Nature, Spirit, and Power of Darkneſs in thee; hereby thou diſtinguiſheſt between Good and Evil, knows the Voice of God that calls thee out of Darkneſs into Light, out of Error into Truth, out of Evil into Good; and not only ſo, but begets a Will and Deſire in thee, to eſchew the Evil, and cleave to the Good; thus far thou believeſt well; Love God, of whoſe Life and Nature, that Light, that Truth, that Good
+<pb n="16" facs="tcp:151427:9"/> is, which thou diſcerneſt in thy Soul; and it will change thee into its Likeneſs; thus thou wilt find the good Effects of thy Faith, which works by Love; and here thou wilt know the Holy Fear that keepeth thy Heart clean; and as thou per<g ref="char:EOLhyphen"/>ſevereſt in this Faith, Love, and Fear of God, He will inſtruct thee in all Righteouſneſs, and Truth, and manifold Heavenly Vertues thou wilt learn of him, as he is pleaſed to ſhew himſelf therein unto thee, who will be with thee, to help thee to perform what he requires of thee; <hi>Come unto me,</hi> ſaith Chriſt, <hi>all ye that labour, and are heavy laden; learn of me, for I am meek, and low in Heart, and
+<pb n="17" facs="tcp:151427:9"/> ye ſhall find reſt to your Souls.</hi> I have already ſhewed the Ne<g ref="char:EOLhyphen"/>ceſſity of believing that God is, where he is to be found, and how thou maiſt know him, <hi>viz.</hi> by his Image, Nature and Spirit in thee, which ſhews it ſelf forth in all heavenly Vertues: And here it is to be obſerved, that Chriſt, who is the Expreſs Image of his Father, begins with his Meekneſs and Lowli<g ref="char:EOLhyphen"/>neſs in the Heart, to declare, and ſhew himſelf to thee; and the Way to come unto him, is to learn of him; that is, ſo to wait for his Appearance, as to have a ſenſible feeling of his Meekneſs and Humility in thee, and to wait upon him to be made conformable thereunto:
+<pb n="18" facs="tcp:151427:10"/> I need not go about to Con<g ref="char:EOLhyphen"/>vince thee, who thus believes, (that God is) That it is the Indiſpenſible Duty, as well as True Intereſt of all Mankind, to Serve, Worſhip and A<g ref="char:EOLhyphen"/>dore him, to whom we all, as depending Creatures, Owe our Being, and Well-being; whence it inevitably follows, that we Owe all Reverence, Ho<g ref="char:EOLhyphen"/>mage, and Obedience to him. And the way to obtain the Happineſs that is in him, is to come unto him, and wait upon him, from whom every good and perfect Gift cometh.</p>
+            <p>Now that which principally Reſteth with me to Recom<g ref="char:EOLhyphen"/>mend to all, to whom this may come, is a true and right per<g ref="char:EOLhyphen"/>formance
+<pb n="19" facs="tcp:151427:10"/> of this great Exerciſe and weighty Work of coming to Chriſt, and waiting upon him; becauſe it is a Duty and Means appointed of God for all to attain Eternal Happineſs and Peace with him: For as Man loſt his happy State, by being betrayed and going from that Image of God, in which he was Created; ſo there is no o<g ref="char:EOLhyphen"/>ther way to recover it, but by coming back to Chriſt, to be Reſtored into his Image again. <hi>No Man cometh unto the Father but by me,</hi> ſaith Chriſt, <hi>and none cometh to me, except my Father that hath ſent me draw him.</hi> Well then, we muſt wait for the drawings of the Father, and follow his Leadings; for
+<pb n="20" facs="tcp:151427:11"/> as Chriſt ſaid, <hi>The Father him<g ref="char:EOLhyphen"/>ſelf Loveth you;</hi> how know we that, but by the Senſe he gives us of his Love in our Souls, and how come we by this Senſe, but by the opening of his Life and Love therein?</p>
+            <p>This Manifeſtation of him<g ref="char:EOLhyphen"/>ſelf to us, and in us, is through the Gift and Spirit of his Son Chriſt Jeſus in us, whom we are to believe; <hi>Ye believe in God, believe alſo in me,</hi> ſaith Chriſt; that is, Confide in him and follow him, as he is the Way to the Father; Love, Fear and Obey him, according as he Manifeſts himſelf, and Reveals the Father, who are One: For ſo have we Experi<g ref="char:EOLhyphen"/>enced, and Learned of Chriſt.
+<pb n="21" facs="tcp:151427:11"/> Therefore when he Exhorteth us to come unto him; it is, that we Inwardly Retire unto him in our Minds, and ſettle our Intention purely upon him, and diligently wait to feel his Life and Love (which is his Divine Nature) to ſpring up and ſhew it ſelf in our Souls, and then joyn with it, cleave to it, and love it, and it will leven us into its own Nature and Image; and ſo we come to a right Knowledge of God, and Chriſt, by Participation and U<g ref="char:EOLhyphen"/>nion; and in and by this divine Nature, and Spirit of Chriſt, we are inabled to Pray to the Fa<g ref="char:EOLhyphen"/>ther, to Reſiſt the Enemy and overcome him; for it is able to do all things, and greatly pre<g ref="char:EOLhyphen"/>vails
+<pb n="22" facs="tcp:151427:12"/> with God for a Bleſſing.</p>
+            <p>Now here is a ſound Bottom and ſure Foundation to build upon; Namely, <hi>Chriſt Jeſus,</hi> as he is thus manifeſted by his Divine Nature and Spirit in us: And as we are built up here<g ref="char:EOLhyphen"/>upon, we are built up to God a Spiritual Houſe of Living Stones Elect and Precious: Therefore in all our Spiritual Exerciſes, and Drawings near to God, we muſt come down to this Foundation and Corner-Stone, and keep upon it; and this is through great Labour, deep and inward Silence, and Spiritual Death unto Self, and Self-ſtrivings, in Patience, and Long-ſuffering obtained, and kept to; for the Enemy of our
+<pb n="23" facs="tcp:151427:12"/> Souls Peace watches all Oppor<g ref="char:EOLhyphen"/>tunities, to draw our Minds away, and keep us there-from, knowing that all our Labour and Exerciſe, upon a Spiritual Account, becomes unprofitable unto us without this Founda<g ref="char:EOLhyphen"/>tion; becauſe as Chriſt ſaid, <hi>Without me ye can do nothing;</hi> that is, nothing available to our Souls Everlaſting Reſt and Peace.</p>
+            <p>Thus we ſee how greatly it Concerns us, in order to the right Performance of Worſhip to God, and obtaining our Souls Salvation, to Meet together, to waith upon God, to Feel the Drawings of the Father, to come unto Chriſt, to preſent our Souls and Bodies, as a Liv<g ref="char:EOLhyphen"/>ing
+<pb n="24" facs="tcp:151427:13"/> Sacrifice unto him; that is, in his Preſence; where we Be<g ref="char:EOLhyphen"/>hold him, and Love him, in his Appearance, which is moſt Beautiful and Excellent: And as we thus diligently wait upon him, and abide with him, in the Meekneſs, in the Lowli<g ref="char:EOLhyphen"/>neſs, in the Long ſuffering, and in the Patience that he brings with him, and gives unto ſuch, with all the reſt of his Hea<g ref="char:EOLhyphen"/>venly Vertues, which ſpring and flow from him, as from a Living Fountain, we ſhall be Adorned therewith, and Chan<g ref="char:EOLhyphen"/>ged into his Likeneſs.</p>
+            <p>And here much might be added, by way of Encourage<g ref="char:EOLhyphen"/>ment, on the foot of our true Intereſt, as well as Obligation
+<pb n="25" facs="tcp:151427:13"/> and Duty, to the right perfor<g ref="char:EOLhyphen"/>mance of this Exerciſe, both with reſpect to the high and holy Call thereto, the Beauty and Excellency that is in him, beyond all Compariſon, whom we are thus to wait for, and upon, as well as the Wonder<g ref="char:EOLhyphen"/>ful, Bleſſed and Comfortable Effects it produces in the Souls of all thoſe that ſo does: But theſe things cannot be ſuffici<g ref="char:EOLhyphen"/>ently declared, nor known to any, as they are felt and expe<g ref="char:EOLhyphen"/>rienced, through the Work of God in their own Souls; for as it is written, <hi>Eye hath not ſeen, Ear hath not heard, neither hath it entred into the Heart of Man, to conceive, the things that God hath in ſtore for them that love him.</hi>
+            </p>
+            <pb n="26" facs="tcp:151427:14"/>
+            <p>So, Friends, I earneſtly be<g ref="char:EOLhyphen"/>ſeech you, for your Souls ſake, be wiſe in Heart, diligent in the Work of the Lord, both in coming to Meetings, and wait<g ref="char:EOLhyphen"/>ing upon, and worſhipping of God therein, and you will find your Reward: Let your Eye be ſingle, and your Intention pure to God: Conſider the end of your coming, and what you are about, the Preſence you are in; and how you be<g ref="char:EOLhyphen"/>have your ſelves in the pre<g ref="char:EOLhyphen"/>ſence of the great God you Profeſs to Worſhip, that your Hearts may be rightly fitted and prepared for it; gird up the Loyns of your Minds, keep out of the Muſings, Self-Workings and Strivings, for
+<pb n="27" facs="tcp:151427:14"/> that brings forth nothing to Perfection, wait the Lord's time, truſt in him, and hope to the end; and he that is Faithful and True, and is not Slack concerning his Promiſe, as ſome Men count Slackneſs, when he hath proved you, will Viſit you, and Reward your Faith and Patience, and Adminiſter things ſuitable to your Neceſſities, and make you in Love with all Opportu<g ref="char:EOLhyphen"/>nities of waiting upon him; and if you continue Faithful, will Crown you with Life, and in the end receive you into his Heavenly Kingdom of Joy and Peace for ever<g ref="char:EOLhyphen"/>more; which, that he may do
+<pb n="28" facs="tcp:151427:15"/> for us all, is the Hearty De<g ref="char:EOLhyphen"/>ſire of</p>
+            <closer>
+               <signed>Your Friend and Well-wiſher, and one of <hi>Zion</hi>'s Travel<g ref="char:EOLhyphen"/>lers towards his Everlaſting Kingdom. Richard Vickris.</signed>
+               <dateline>Chew <date>the 27th of the Firſt Month, 1697.</date> Given forth to be Read amongſt Friends.</dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
